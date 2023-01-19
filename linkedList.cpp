@@ -1,5 +1,5 @@
 #include <iostream>
-#include <list>
+
 
 /* Note: This is not a thorogh linked list implementation.
  * This implementation of linked list is meant for education and practical purposes
