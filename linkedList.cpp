@@ -37,8 +37,6 @@ public:
     // display the linked list
     void display();
     // clear up the linked list;
-    void clear();
-    // return an iterator to the head of the list
     list_iterator begin();
     /**
      * @brief an iterator to the end of the list
